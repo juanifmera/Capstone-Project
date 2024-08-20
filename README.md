@@ -16,6 +16,7 @@ Features:
 Checking data types and identifying missing values.
 Extracting and analyzing key features like ZIP codes and townships.
 Handling missing data and creating new, relevant columns for deeper insights.
+
 Understanding the Data Through Visualizations 📊
 This section is dedicated to visualizing the data to reveal trends and patterns:
 
@@ -24,6 +25,7 @@ Unique Call Reasons: Categorizing calls into Emergency Medical Services (EMS), T
 Countplots: Visualizing call frequencies by reason, day of the week, and month.
 Time Series Analysis: Exploring how call volumes change over time using line plots.
 Heatmaps: Analyzing call density based on time and day to pinpoint peak hours.
+
 Advanced Insights 🕵️‍♂️
 Taking the analysis a step further with more complex techniques:
 
